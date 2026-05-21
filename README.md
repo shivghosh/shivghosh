@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a CS Masters Degree 
-- 🌱 I’m currently learning current topics in bioinformatics 
+- 🔭 I’m currently working on research on vision langauge models for neurooncology with UCSF. 
+- 🧠 Check out our first preprint [Preprint!]{http://arxiv.org/abs/2605.17140}
+- 🎓 I just finished my Masters of Engineering in Bioengineering at Berkeley.
+- 🌱 I’m currently learning current topics in multimodal fusion for vision language models.
 - 👯 I’m looking to collaborate on research 
 - 📫 How to reach me: shiv.ghosh@berkeley.edu
 - 😄 Pronouns: he/him
